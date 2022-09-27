@@ -1,4 +1,4 @@
 # Use following npx command
-npx prisma db push
-npx prisma db seed
-npm prisma studio
+1) npx prisma db push
+2) npx prisma db seed
+3) npm prisma studio
